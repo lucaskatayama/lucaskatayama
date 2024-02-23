@@ -2,7 +2,7 @@
 
 My name is Lucas Katayama
 and I am Brazilian Software Developer, building web and mobile applications,
-with almost 8 years of experience willing to move abroad to improve my skills in development.
+with years of experience willing to move abroad to improve my skills in development.
 
 I am self-taught and I ❤ new technologies and photography.
 
